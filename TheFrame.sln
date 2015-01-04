@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFrame", "TheFrame\TheFrame.csproj", "{DCA3C420-1339-4CE1-93C5-D64FCE31CCB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFrame.Core", "TheFrame.Core\TheFrame.Core.csproj", "{1EA3A74C-3BDA-4F2B-84E2-2554EACE7BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFrame.Plugin.BinaryWatch", "TheFrame.Plugin.BinaryWatch\TheFrame.Plugin.BinaryWatch.csproj", "{DF5ADBCC-7939-4EC7-8995-BC2FC6DA9448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFrame.Common", "TheFrame.Common\TheFrame.Common.csproj", "{B27CFB40-D74F-4B33-9D3E-AEC123C858B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFrame.Plugin.Spectogram", "TheFrame.Plugin.Spectogram\TheFrame.Plugin.Spectogram.csproj", "{0866DC61-3D01-42DE-9E22-3A5E983DC6B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA3C420-1339-4CE1-93C5-D64FCE31CCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA3C420-1339-4CE1-93C5-D64FCE31CCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA3C420-1339-4CE1-93C5-D64FCE31CCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA3C420-1339-4CE1-93C5-D64FCE31CCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA3A74C-3BDA-4F2B-84E2-2554EACE7BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA3A74C-3BDA-4F2B-84E2-2554EACE7BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA3A74C-3BDA-4F2B-84E2-2554EACE7BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA3A74C-3BDA-4F2B-84E2-2554EACE7BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5ADBCC-7939-4EC7-8995-BC2FC6DA9448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5ADBCC-7939-4EC7-8995-BC2FC6DA9448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5ADBCC-7939-4EC7-8995-BC2FC6DA9448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5ADBCC-7939-4EC7-8995-BC2FC6DA9448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27CFB40-D74F-4B33-9D3E-AEC123C858B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27CFB40-D74F-4B33-9D3E-AEC123C858B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27CFB40-D74F-4B33-9D3E-AEC123C858B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27CFB40-D74F-4B33-9D3E-AEC123C858B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0866DC61-3D01-42DE-9E22-3A5E983DC6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0866DC61-3D01-42DE-9E22-3A5E983DC6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0866DC61-3D01-42DE-9E22-3A5E983DC6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0866DC61-3D01-42DE-9E22-3A5E983DC6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
